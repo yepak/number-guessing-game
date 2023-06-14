@@ -1,2 +1,2 @@
 # number-guessing-game
-Number Guessing Game
+Hi, this is my first repository and my first program. I hope you enjoyed!
